@@ -67,11 +67,16 @@ $ vi CMakeLists.txt
 ````
 host/Makefile - When OP-TEE used with Linux build setup this file will be used.
 ```ruby
+
 $ vi host/Makefile
 ```
 ```ruby
 -BINARY = optee_example_hello_world
 +BINARY = optee_example_demo
 ```
+
+
+# Document update still in progress....
+
 
 

@@ -1,5 +1,15 @@
 # Client/Host application, Trusted Application and Pseudo Trusted Applications
 
+
+Refer this article for more information:
+
+https://bit.ly/3Kh2dRT
+
+Also provided video about OP-TEE:
+
+https://youtube.com/playlist?list=PLrwOamjP8JAKZ3hIdH1z3hxvYSq7XoI8d
+
+
 Here explaining the complete flow of Client/Host application, Trusted Application and Pseudo Trusted Applications using sample application.
 
 ![optee-ca-ta-pta](https://user-images.githubusercontent.com/36186082/148690120-2bc818a6-3777-4c2f-9cf0-07930d041a69.png)
